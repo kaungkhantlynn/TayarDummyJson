@@ -1,0 +1,1035 @@
+
+
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 83,
+      "post_title": "နှလုံးသွင်းမှန်မှု အလုပ်ပေးတရားတော်",
+      "post_slug": "83-nhalonetwin",
+      "post_type": "audio",
+      "post_review": "မိုးကုတ်ဆရာတော်ဘုရားကြီး ဟောကြားတော်မူသောတရားတော်များ နှလုံးသွင်းမှန်မှု အလုပ်ပေးတရားတော်",
+      "url": "http://dhammadownload.com/MP3Library/Ashin-PonNyarNanda/2005-July-Aug-Sept-100-day-meditation/PaHtan/002-AshinPonNyarNanda-pahtan.mp3",
+      "user_id": 1,
+      "author_id": 1,
+      "deleted_at": null,
+      "published_date": "2017-07-24 13:28:21",
+      "created_at": "2017-07-24 06:58:21",
+      "updated_at": "2017-07-24 06:58:22",
+      "feature_image_path": "/media/54/conversions/feature_image.jpg",
+      "feature_image_id": 54,
+      "thumb_image_path": "/media/54/conversions/thumb.jpg",
+      "has_media": true,
+      "user": {
+        "id": 1,
+        "name": "Admin",
+        "email": "info@myanmarlinks.net",
+        "type": "backend",
+        "superadmin": 1,
+        "created_at": "2017-06-01 06:06:14",
+        "updated_at": "2017-06-01 06:07:23",
+        "profile": null
+      },
+      "media": [
+        {
+          "id": 54,
+          "model_id": 83,
+          "model_type": "App\\Post",
+          "collection_name": "images",
+          "name": "rDdWOq",
+          "file_name": "rDdWOq.jpg",
+          "disk": "media",
+          "size": 13620,
+          "manipulations": [
+            
+          ],
+          "custom_properties": [
+            
+          ],
+          "order_column": 39,
+          "created_at": "2017-07-24 06:58:21",
+          "updated_at": "2017-07-24 06:58:21"
+        }
+      ],
+      "author": {
+        "id": 1,
+        "biography": "Evil Child Author",
+        "author_name": "Test Author",
+        "pen_name": "Test Author",
+        "created_at": "2017-06-08 05:04:17",
+        "updated_at": "2017-06-08 05:04:17",
+        "feature_image_path": "/media/4/conversions/feature_image.jpg",
+        "thumb_image_path": "/media/4/conversions/thumb_image.jpg",
+        "feature_image": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ],
+        "feature_image_id": 4,
+        "media": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ]
+      }
+    },
+    {
+      "id": 82,
+      "post_title": "ကာယမီမံ အလုပ်ပေးတရားတော်",
+      "post_slug": "82-karyamiman",
+      "post_type": "audio",
+      "post_review": "မိုးကုတ်ဆရာတော်ဘုရားကြီး ဟောကြားတော်မူသောတရားတော်များ ကာယမီမံ အလုပ်ပေးတရားတော်",
+      "url": "http://dhammadownload.com/MP3Library/Ashin-PonNyarNanda/2005-July-Aug-Sept-100-day-meditation/PaHtan/003-AshinPonNyarNanda-pahtan.mp3",
+      "user_id": 1,
+      "author_id": 1,
+      "deleted_at": null,
+      "published_date": "2017-07-24 13:24:37",
+      "created_at": "2017-07-24 06:54:36",
+      "updated_at": "2017-07-24 06:54:38",
+      "feature_image_path": "/media/53/conversions/feature_image.jpg",
+      "feature_image_id": 53,
+      "thumb_image_path": "/media/53/conversions/thumb.jpg",
+      "has_media": true,
+      "user": {
+        "id": 1,
+        "name": "Admin",
+        "email": "info@myanmarlinks.net",
+        "type": "backend",
+        "superadmin": 1,
+        "created_at": "2017-06-01 06:06:14",
+        "updated_at": "2017-06-01 06:07:23",
+        "profile": null
+      },
+      "media": [
+        {
+          "id": 53,
+          "model_id": 82,
+          "model_type": "App\\Post",
+          "collection_name": "images",
+          "name": "jGlrmm",
+          "file_name": "jGlrmm.",
+          "disk": "media",
+          "size": 158090,
+          "manipulations": [
+            
+          ],
+          "custom_properties": [
+            
+          ],
+          "order_column": 38,
+          "created_at": "2017-07-24 06:54:36",
+          "updated_at": "2017-07-24 06:54:36"
+        }
+      ],
+      "author": {
+        "id": 1,
+        "biography": "Evil Child Author",
+        "author_name": "Test Author",
+        "pen_name": "Test Author",
+        "created_at": "2017-06-08 05:04:17",
+        "updated_at": "2017-06-08 05:04:17",
+        "feature_image_path": "/media/4/conversions/feature_image.jpg",
+        "thumb_image_path": "/media/4/conversions/thumb_image.jpg",
+        "feature_image": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ],
+        "feature_image_id": 4,
+        "media": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ]
+      }
+    },
+    {
+      "id": 81,
+      "post_title": "T",
+      "post_slug": "81-t",
+      "post_type": "audio",
+      "post_review": "t",
+      "url": "http://dhammadownload.com/MP3Library/Ashin-PonNyarNanda/2005-July-Aug-Sept-100-day-meditation/BaWaNar40/016-AshinPonNyarNanda-Bawanar40.mp3",
+      "user_id": 1,
+      "author_id": 1,
+      "deleted_at": null,
+      "published_date": "2017-07-21 11:27:59",
+      "created_at": "2017-07-21 04:57:59",
+      "updated_at": "2017-07-21 04:58:00",
+      "feature_image_path": "/media/52/conversions/feature_image.jpg",
+      "feature_image_id": 52,
+      "thumb_image_path": "/media/52/conversions/thumb.jpg",
+      "has_media": true,
+      "user": {
+        "id": 1,
+        "name": "Admin",
+        "email": "info@myanmarlinks.net",
+        "type": "backend",
+        "superadmin": 1,
+        "created_at": "2017-06-01 06:06:14",
+        "updated_at": "2017-06-01 06:07:23",
+        "profile": null
+      },
+      "media": [
+        {
+          "id": 52,
+          "model_id": 81,
+          "model_type": "App\\Post",
+          "collection_name": "images",
+          "name": "jGlrmm",
+          "file_name": "jGlrmm.",
+          "disk": "media",
+          "size": 158090,
+          "manipulations": [
+            
+          ],
+          "custom_properties": [
+            
+          ],
+          "order_column": 37,
+          "created_at": "2017-07-21 04:57:59",
+          "updated_at": "2017-07-21 04:57:59"
+        }
+      ],
+      "author": {
+        "id": 1,
+        "biography": "Evil Child Author",
+        "author_name": "Test Author",
+        "pen_name": "Test Author",
+        "created_at": "2017-06-08 05:04:17",
+        "updated_at": "2017-06-08 05:04:17",
+        "feature_image_path": "/media/4/conversions/feature_image.jpg",
+        "thumb_image_path": "/media/4/conversions/thumb_image.jpg",
+        "feature_image": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ],
+        "feature_image_id": 4,
+        "media": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ]
+      }
+    },
+    {
+      "id": 80,
+      "post_title": "rip",
+      "post_slug": "80-rip",
+      "post_type": "audio",
+      "post_review": "asdfsdf",
+      "url": "http://dhammadownload.com/MP3Library/Ashin-PonNyarNanda/2005-July-Aug-Sept-100-day-meditation/BaWaNar40/021-AshinPonNyarNanda-Bawanar40.mp3",
+      "user_id": 1,
+      "author_id": 1,
+      "deleted_at": null,
+      "published_date": "2017-07-21 10:02:57",
+      "created_at": "2017-07-21 03:32:56",
+      "updated_at": "2017-07-21 03:32:58",
+      "feature_image_path": "/media/51/conversions/feature_image.jpg",
+      "feature_image_id": 51,
+      "thumb_image_path": "/media/51/conversions/thumb.jpg",
+      "has_media": true,
+      "user": {
+        "id": 1,
+        "name": "Admin",
+        "email": "info@myanmarlinks.net",
+        "type": "backend",
+        "superadmin": 1,
+        "created_at": "2017-06-01 06:06:14",
+        "updated_at": "2017-06-01 06:07:23",
+        "profile": null
+      },
+      "media": [
+        {
+          "id": 51,
+          "model_id": 80,
+          "model_type": "App\\Post",
+          "collection_name": "images",
+          "name": "jGlrmm",
+          "file_name": "jGlrmm.",
+          "disk": "media",
+          "size": 158090,
+          "manipulations": [
+            
+          ],
+          "custom_properties": [
+            
+          ],
+          "order_column": 36,
+          "created_at": "2017-07-21 03:32:57",
+          "updated_at": "2017-07-21 03:32:57"
+        }
+      ],
+      "author": {
+        "id": 1,
+        "biography": "Evil Child Author",
+        "author_name": "Test Author",
+        "pen_name": "Test Author",
+        "created_at": "2017-06-08 05:04:17",
+        "updated_at": "2017-06-08 05:04:17",
+        "feature_image_path": "/media/4/conversions/feature_image.jpg",
+        "thumb_image_path": "/media/4/conversions/thumb_image.jpg",
+        "feature_image": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ],
+        "feature_image_id": 4,
+        "media": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ]
+      }
+    },
+    {
+      "id": 79,
+      "post_title": "ffg",
+      "post_slug": "79-ffg",
+      "post_type": "audio",
+      "post_review": "ffg ffg",
+      "url": "http://dhammadownload.com/MP3Library/Ashin-PonNyarNanda/2005-July-Aug-Sept-100-day-meditation/BaWaNar40/022-AshinPonNyarNanda-Bawanar40.mp3",
+      "user_id": 1,
+      "author_id": 1,
+      "deleted_at": null,
+      "published_date": "2017-07-20 18:15:48",
+      "created_at": "2017-07-20 11:45:47",
+      "updated_at": "2017-07-20 11:45:49",
+      "feature_image_path": "/media/50/conversions/feature_image.jpg",
+      "feature_image_id": 50,
+      "thumb_image_path": "/media/50/conversions/thumb.jpg",
+      "has_media": true,
+      "user": {
+        "id": 1,
+        "name": "Admin",
+        "email": "info@myanmarlinks.net",
+        "type": "backend",
+        "superadmin": 1,
+        "created_at": "2017-06-01 06:06:14",
+        "updated_at": "2017-06-01 06:07:23",
+        "profile": null
+      },
+      "media": [
+        {
+          "id": 50,
+          "model_id": 79,
+          "model_type": "App\\Post",
+          "collection_name": "images",
+          "name": "jGlrmm",
+          "file_name": "jGlrmm.",
+          "disk": "media",
+          "size": 158090,
+          "manipulations": [
+            
+          ],
+          "custom_properties": [
+            
+          ],
+          "order_column": 35,
+          "created_at": "2017-07-20 11:45:47",
+          "updated_at": "2017-07-20 11:45:47"
+        }
+      ],
+      "author": {
+        "id": 1,
+        "biography": "Evil Child Author",
+        "author_name": "Test Author",
+        "pen_name": "Test Author",
+        "created_at": "2017-06-08 05:04:17",
+        "updated_at": "2017-06-08 05:04:17",
+        "feature_image_path": "/media/4/conversions/feature_image.jpg",
+        "thumb_image_path": "/media/4/conversions/thumb_image.jpg",
+        "feature_image": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ],
+        "feature_image_id": 4,
+        "media": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "post_title": "fat",
+      "post_slug": "78-fat",
+      "post_type": "audio",
+      "post_review": "fat",
+      "url": "http://dhammadownload.com/MP3Library/Ashin-PonNyarNanda/2005-July-Aug-Sept-100-day-meditation/Workshop2/001-AshinPonNyarNanda-Workshop2.mp3",
+      "user_id": 1,
+      "author_id": 1,
+      "deleted_at": null,
+      "published_date": "2017-07-20 18:13:22",
+      "created_at": "2017-07-20 11:43:21",
+      "updated_at": "2017-07-20 11:43:23",
+      "feature_image_path": "/media/49/conversions/feature_image.jpg",
+      "feature_image_id": 49,
+      "thumb_image_path": "/media/49/conversions/thumb.jpg",
+      "has_media": true,
+      "user": {
+        "id": 1,
+        "name": "Admin",
+        "email": "info@myanmarlinks.net",
+        "type": "backend",
+        "superadmin": 1,
+        "created_at": "2017-06-01 06:06:14",
+        "updated_at": "2017-06-01 06:07:23",
+        "profile": null
+      },
+      "media": [
+        {
+          "id": 49,
+          "model_id": 78,
+          "model_type": "App\\Post",
+          "collection_name": "images",
+          "name": "jGlrmm",
+          "file_name": "jGlrmm.",
+          "disk": "media",
+          "size": 158090,
+          "manipulations": [
+            
+          ],
+          "custom_properties": [
+            
+          ],
+          "order_column": 34,
+          "created_at": "2017-07-20 11:43:21",
+          "updated_at": "2017-07-20 11:43:21"
+        }
+      ],
+      "author": {
+        "id": 1,
+        "biography": "Evil Child Author",
+        "author_name": "Test Author",
+        "pen_name": "Test Author",
+        "created_at": "2017-06-08 05:04:17",
+        "updated_at": "2017-06-08 05:04:17",
+        "feature_image_path": "/media/4/conversions/feature_image.jpg",
+        "thumb_image_path": "/media/4/conversions/thumb_image.jpg",
+        "feature_image": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ],
+        "feature_image_id": 4,
+        "media": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "post_title": "ဖားကန့်ဒေသရှိ",
+      "post_slug": "75-tzest",
+      "post_type": "audio",
+      "post_review": "sdfdsf",
+      "url": "http://dhammadownload.com/MP3Library/Ashin-PonNyarNanda/2005-July-Aug-Sept-100-day-meditation/Workshop3/001-AshinPonNyarNanda-Workshop3.mp3",
+      "user_id": 1,
+      "author_id": 1,
+      "deleted_at": null,
+      "published_date": "2017-07-20 18:04:26",
+      "created_at": "2017-07-20 11:34:24",
+      "updated_at": "2017-07-20 11:34:27",
+      "feature_image_path": "/media/48/conversions/feature_image.jpg",
+      "feature_image_id": 48,
+      "thumb_image_path": "/media/48/conversions/thumb.jpg",
+      "has_media": true,
+      "user": {
+        "id": 1,
+        "name": "Admin",
+        "email": "info@myanmarlinks.net",
+        "type": "backend",
+        "superadmin": 1,
+        "created_at": "2017-06-01 06:06:14",
+        "updated_at": "2017-06-01 06:07:23",
+        "profile": null
+      },
+      "media": [
+        {
+          "id": 48,
+          "model_id": 75,
+          "model_type": "App\\Post",
+          "collection_name": "images",
+          "name": "jGlrmm",
+          "file_name": "jGlrmm.",
+          "disk": "media",
+          "size": 158090,
+          "manipulations": [
+            
+          ],
+          "custom_properties": [
+            
+          ],
+          "order_column": 33,
+          "created_at": "2017-07-20 11:34:25",
+          "updated_at": "2017-07-20 11:34:25"
+        }
+      ],
+      "author": {
+        "id": 1,
+        "biography": "Evil Child Author",
+        "author_name": "Test Author",
+        "pen_name": "Test Author",
+        "created_at": "2017-06-08 05:04:17",
+        "updated_at": "2017-06-08 05:04:17",
+        "feature_image_path": "/media/4/conversions/feature_image.jpg",
+        "thumb_image_path": "/media/4/conversions/thumb_image.jpg",
+        "feature_image": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ],
+        "feature_image_id": 4,
+        "media": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "post_title": "new",
+      "post_slug": "66-new",
+      "post_type": "audio",
+      "post_review": "new new new",
+      "url": "http://dhammadownload.com/MP3Library/Ashin-PonNyarNanda/2005-July-Aug-Sept-100-day-meditation/Workshop3/002-AshinPonNyarNanda-Workshop3.mp3",
+      "user_id": 1,
+      "author_id": 1,
+      "deleted_at": null,
+      "published_date": "2017-07-20 17:40:13",
+      "created_at": "2017-07-20 11:10:12",
+      "updated_at": "2017-07-20 11:10:14",
+      "feature_image_path": "/media/47/conversions/feature_image.jpg",
+      "feature_image_id": 47,
+      "thumb_image_path": "/media/47/conversions/thumb.jpg",
+      "has_media": true,
+      "user": {
+        "id": 1,
+        "name": "Admin",
+        "email": "info@myanmarlinks.net",
+        "type": "backend",
+        "superadmin": 1,
+        "created_at": "2017-06-01 06:06:14",
+        "updated_at": "2017-06-01 06:07:23",
+        "profile": null
+      },
+      "media": [
+        {
+          "id": 47,
+          "model_id": 66,
+          "model_type": "App\\Post",
+          "collection_name": "images",
+          "name": "jGlrmm",
+          "file_name": "jGlrmm.",
+          "disk": "media",
+          "size": 158090,
+          "manipulations": [
+            
+          ],
+          "custom_properties": [
+            
+          ],
+          "order_column": 32,
+          "created_at": "2017-07-20 11:10:13",
+          "updated_at": "2017-07-20 11:10:13"
+        }
+      ],
+      "author": {
+        "id": 1,
+        "biography": "Evil Child Author",
+        "author_name": "Test Author",
+        "pen_name": "Test Author",
+        "created_at": "2017-06-08 05:04:17",
+        "updated_at": "2017-06-08 05:04:17",
+        "feature_image_path": "/media/4/conversions/feature_image.jpg",
+        "thumb_image_path": "/media/4/conversions/thumb_image.jpg",
+        "feature_image": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ],
+        "feature_image_id": 4,
+        "media": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "post_title": "athit",
+      "post_slug": "65-athitlaypr",
+      "post_type": "audio",
+      "post_review": "sdfadsf",
+      "url": "http://dhammadownload.com/MP3Library/Ashin-PonNyarNanda/2005-3-Walk-For-Nibban/002-AshinPonNyarNanda-Meditation.mp3",
+      "user_id": 1,
+      "author_id": 1,
+      "deleted_at": null,
+      "published_date": "2017-07-20 17:35:26",
+      "created_at": "2017-07-20 11:05:24",
+      "updated_at": "2017-07-20 11:05:27",
+      "feature_image_path": "/media/46/conversions/feature_image.jpg",
+      "feature_image_id": 46,
+      "thumb_image_path": "/media/46/conversions/thumb.jpg",
+      "has_media": true,
+      "user": {
+        "id": 1,
+        "name": "Admin",
+        "email": "info@myanmarlinks.net",
+        "type": "backend",
+        "superadmin": 1,
+        "created_at": "2017-06-01 06:06:14",
+        "updated_at": "2017-06-01 06:07:23",
+        "profile": null
+      },
+      "media": [
+        {
+          "id": 46,
+          "model_id": 65,
+          "model_type": "App\\Post",
+          "collection_name": "images",
+          "name": "jGlrmm",
+          "file_name": "jGlrmm.",
+          "disk": "media",
+          "size": 158090,
+          "manipulations": [
+            
+          ],
+          "custom_properties": [
+            
+          ],
+          "order_column": 31,
+          "created_at": "2017-07-20 11:05:25",
+          "updated_at": "2017-07-20 11:05:25"
+        }
+      ],
+      "author": {
+        "id": 1,
+        "biography": "Evil Child Author",
+        "author_name": "Test Author",
+        "pen_name": "Test Author",
+        "created_at": "2017-06-08 05:04:17",
+        "updated_at": "2017-06-08 05:04:17",
+        "feature_image_path": "/media/4/conversions/feature_image.jpg",
+        "thumb_image_path": "/media/4/conversions/thumb_image.jpg",
+        "feature_image": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ],
+        "feature_image_id": 4,
+        "media": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "post_title": "alh",
+      "post_slug": "63-alh",
+      "post_type": "audio",
+      "post_review": "fads",
+      "url": "http://dhammadownload.com/MP3Library/Ashin-PonNyarNanda/2005-1-SeinShweGone/001-AshinPonNyarNanda-BarKyauntDokeKhaYorkRaThaLal-4-1-2005.mp3",
+      "user_id": 1,
+      "author_id": 1,
+      "deleted_at": null,
+      "published_date": "2017-07-20 17:24:34",
+      "created_at": "2017-07-20 10:54:32",
+      "updated_at": "2017-07-20 10:54:35",
+      "feature_image_path": "/media/45/conversions/feature_image.jpg",
+      "feature_image_id": 45,
+      "thumb_image_path": "/media/45/conversions/thumb.jpg",
+      "has_media": true,
+      "user": {
+        "id": 1,
+        "name": "Admin",
+        "email": "info@myanmarlinks.net",
+        "type": "backend",
+        "superadmin": 1,
+        "created_at": "2017-06-01 06:06:14",
+        "updated_at": "2017-06-01 06:07:23",
+        "profile": null
+      },
+      "media": [
+        {
+          "id": 45,
+          "model_id": 63,
+          "model_type": "App\\Post",
+          "collection_name": "images",
+          "name": "jGlrmm",
+          "file_name": "jGlrmm.",
+          "disk": "media",
+          "size": 158090,
+          "manipulations": [
+            
+          ],
+          "custom_properties": [
+            
+          ],
+          "order_column": 30,
+          "created_at": "2017-07-20 10:54:34",
+          "updated_at": "2017-07-20 10:54:34"
+        }
+      ],
+      "author": {
+        "id": 1,
+        "biography": "Evil Child Author",
+        "author_name": "Test Author",
+        "pen_name": "Test Author",
+        "created_at": "2017-06-08 05:04:17",
+        "updated_at": "2017-06-08 05:04:17",
+        "feature_image_path": "/media/4/conversions/feature_image.jpg",
+        "thumb_image_path": "/media/4/conversions/thumb_image.jpg",
+        "feature_image": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ],
+        "feature_image_id": 4,
+        "media": [
+          {
+            "id": 4,
+            "model_id": 1,
+            "model_type": "App\\Author",
+            "collection_name": "author_images",
+            "name": "jGlrmm",
+            "file_name": "jGlrmm.",
+            "disk": "media",
+            "size": 158090,
+            "manipulations": [
+              
+            ],
+            "custom_properties": [
+              
+            ],
+            "order_column": 2,
+            "created_at": "2017-06-08 05:04:17",
+            "updated_at": "2017-06-08 05:04:17"
+          }
+        ]
+      }
+    }
+  ],
+  "from": 1,
+  "last_page": 4,
+  "next_page_url": "http://192.168.1.111:8080/api/get-audio?page=2",
+  "path": "http://192.168.1.111:8080/api/get-audio",
+  "per_page": 10,
+  "prev_page_url": null,
+  "to": 10,
+  "total": 38
+}
